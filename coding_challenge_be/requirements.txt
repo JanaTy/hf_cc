@@ -1,0 +1,17 @@
+Flask==0.12.2
+Flask-RESTful==0.3.6
+SQLAlchemy==1.1.14
+sqlalchemy-migrate==0.11.0
+requests==2.9.1
+pytest==3.2.3
+PyJWT==1.5.3
+flask-sqlalchemy==2.3.1
+marshmallow==2.14.0
+click==6.7
+coverage==4.5
+pytest-cov==2.5.1
+sphinx==1.7.6
+psycopg2==2.7.4
+pylev3==1.1.0
+flask_jwt
+flask_cors

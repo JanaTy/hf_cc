@@ -1,0 +1,13 @@
+<div class="row mt-5">
+  <div class="col-md-4 mb-3" *ngFor="let shop of preferredShops">
+    <div class="card text-center">
+      <div class="card-body">
+        <h5 class="card-title">{{shop.shop_name}}</h5>
+        <p class="card-text">ID : {{shop.shop_id}}</p>
+        <p class="card-text">{{shop.description}}</p>
+        <p class="card-text">Location : {{shop.shop_location}}</p>
+        <button (click)="dislikeShop(shop.shop_id); getPreferredshop()"  class="btn btn-danger">Dislike</button>
+      </div>
+    </div>
+  </div>
+</div>

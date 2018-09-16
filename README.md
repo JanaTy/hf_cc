@@ -24,5 +24,5 @@ then open a a browser to access the application on  `locahost:4200`
 
 ![Alt text](./img.png?raw=true "Title")
 
-i set up two accounts, whitch will be created when luching the databse migration, these accounts are
-`janatii:password` and `founders:hidden`
+i set up two accounts, that were created when the database migration was lunched, these accounts are
+`janatii:password` and `founders:hidden`.

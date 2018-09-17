@@ -4,19 +4,18 @@ This application was created in response to the hidden founders web challenge.
 the application is divided to two parts, back-end made with python using flask micro-framework, and a front-end made with Angular 5.
 
 ## Setup the Backend
-navigate to `codding_challenge_be` directory and run the command
+navigate to `codding_challenge_be` directory and run the  following command to install all the dependencies for the backend application
 
 > python setup.py
 
-this will install all the dependencies for the backend application
+then run the command to create and fill the database
 
 > python codding_challenge.py migrate
 
-to create and fill the database, when done run the command
+finally, the following command runs the backend server
 
 >python codding_challenge.py server
 
-to lunch the back-end server, by default the server runs on port `5000`
 
 ## Setup the Frondend
 navigate to the `codding_challenge_fe` directory and run the command

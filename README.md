@@ -6,6 +6,10 @@ the application is divided to two parts, back-end made with python using flask m
 ## Setup the Backend
 navigate to `codding_challenge_be` directory and run the command
 
+> python setup.py
+
+this will install all the dependencies for the backend application
+
 > python codding_challenge.py migrate
 
 to create and fill the database, when done run the command

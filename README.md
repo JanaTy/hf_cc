@@ -17,7 +17,7 @@ Finally, the following command runs the backend server
 >python codding_challenge.py server
 
 
-## Setup the Frondend
+## Setup the Frontend
 Navigate to the `codding_challenge_fe` directory and run the command below to start the front-end server
 
 >ng serve

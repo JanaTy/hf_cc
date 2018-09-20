@@ -1,4 +1,4 @@
-##Welcome to my Repo
+## Welcome
 
 This is a basic shoping application, made for fun, flask backend, angular frontend.
 

@@ -1,7 +1,7 @@
-# Welcome to hf_cc (hidden founders coding challeng)
+##Welcome to my Repo
 
-This application was created in response to the hidden founders web challenge.
-The application is divided to two parts, a back-end made with python using flask micro-framework, and a front-end made with Angular 5.
+This is a basic shoping application, made for fun, flask backend, angular frontend.
+
 
 ## Setup the Backend
 Navigate to `codding_challenge_be` directory and run the  following command to install all the dependencies for the backend application
@@ -27,4 +27,4 @@ Then open  a browser to access the application on  `locahost:4200`
 ![Alt text](./img.png?raw=true "Title")
 
 Two accounts were created when the database migration was lunched, these accounts are
-`janatii:password` and `founders:hidden`.
+`janatii:password`.

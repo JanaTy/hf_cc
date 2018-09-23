@@ -27,4 +27,4 @@ Then open  a browser to access the application on  `locahost:4200`
 ![Alt text](./img.png?raw=true "Title")
 
 Two accounts were created when the database migration was lunched, these accounts are
-`janatii:password`.
+`janatii:password` and `user:hidden`.

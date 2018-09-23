@@ -11,10 +11,10 @@ users = [
         'user_location': 5
      },
     {
-        'username': 'founders',
+        'username': 'user',
         'password': 'hidden',
-        'first_name': 'nada',
-        'last_name': 'Alaoui',
+        'first_name': 'fname',
+        'last_name': 'lname',
         'user_location': 3
     }
 ]
